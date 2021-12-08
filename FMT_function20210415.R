@@ -26,7 +26,7 @@ rm(list = setdiff(ls(), lsf.str()))
 
 #####data prepocessing------------------
 otu_filter=function(otu,col_lim,row_lim=0){
-  ### col_lim 样品内低丰度filter， row_lim 样品间相同asv的filter
+  ### col_lim : filter richness of asv in each sample， row_lim : filter richness of asv between samples
   ## col filter
   otu1 <- sweep(otu,2,colSums(otu),'/')
   otu1<- ifelse(otu1>col_lim,1,0)
