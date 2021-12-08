@@ -44,4 +44,4 @@ obtain DEG_data_all.RData with DEG analysis with all refined data or selected da
 
 
 # FMT20210415--figure.ipynb
-- Perform some of the figure in the script
+- Perform some figures in the script
