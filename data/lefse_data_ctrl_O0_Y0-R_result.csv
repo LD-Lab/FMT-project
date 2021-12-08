@@ -1,0 +1,7 @@
+,taxonomy,primary_score,group,lefse_score,pvalue,char,position,remark
+35,G_C.Saccharimonas,3.720794262,2,-3.323600706,5.57E-13,111,down,G_CandidatusSaccharimonas
+49,G_Clostridiumsensustricto1,3.541456282,2,-3.294499596,2.75E-17,95,down,
+80,G_PrevotellaceaeUCG_001,4.306159085,2,-3.949956018,3.69E-16,95,down,
+24,G_Bilophila,3.659955986,2,-3.356331444,6.75E-19,102,down,
+62,G_Bacteroides,4.50287532,18,4.028610182,1.54E-12,85,up,
+38,G_Desulfovibrio,3.420719611,18,3.123968427,3.42E-20,106,up,
